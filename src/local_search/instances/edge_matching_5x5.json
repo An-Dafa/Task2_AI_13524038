@@ -1,0 +1,240 @@
+{
+  "name": "rotatable_edge_matching_5x5",
+  "board_size": 5,
+  "symbols": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "known_optimum": 40,
+  "description": "Guaranteed-solvable 5x5 instance. Tile IDs and canonical orientations do not reveal the generating solution.",
+  "tiles": [
+    {
+      "id": 25,
+      "edges": [
+        "B",
+        "D",
+        "D",
+        "B"
+      ]
+    },
+    {
+      "id": 23,
+      "edges": [
+        "D",
+        "E",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "id": 22,
+      "edges": [
+        "E",
+        "E",
+        "A",
+        "D"
+      ]
+    },
+    {
+      "id": 3,
+      "edges": [
+        "A",
+        "B",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "id": 4,
+      "edges": [
+        "E",
+        "C",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 21,
+      "edges": [
+        "A",
+        "E",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "id": 20,
+      "edges": [
+        "B",
+        "C",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "id": 24,
+      "edges": [
+        "C",
+        "E",
+        "D",
+        "A"
+      ]
+    },
+    {
+      "id": 14,
+      "edges": [
+        "E",
+        "A",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 11,
+      "edges": [
+        "B",
+        "E",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "id": 19,
+      "edges": [
+        "E",
+        "A",
+        "E",
+        "D"
+      ]
+    },
+    {
+      "id": 6,
+      "edges": [
+        "A",
+        "C",
+        "E",
+        "C"
+      ]
+    },
+    {
+      "id": 9,
+      "edges": [
+        "C",
+        "D",
+        "E",
+        "E"
+      ]
+    },
+    {
+      "id": 18,
+      "edges": [
+        "A",
+        "C",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "id": 5,
+      "edges": [
+        "E",
+        "D",
+        "C",
+        "B"
+      ]
+    },
+    {
+      "id": 17,
+      "edges": [
+        "E",
+        "E",
+        "D",
+        "B"
+      ]
+    },
+    {
+      "id": 10,
+      "edges": [
+        "C",
+        "E",
+        "D",
+        "B"
+      ]
+    },
+    {
+      "id": 2,
+      "edges": [
+        "E",
+        "E",
+        "E",
+        "A"
+      ]
+    },
+    {
+      "id": 1,
+      "edges": [
+        "D",
+        "B",
+        "D",
+        "B"
+      ]
+    },
+    {
+      "id": 15,
+      "edges": [
+        "E",
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "id": 16,
+      "edges": [
+        "E",
+        "C",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": 12,
+      "edges": [
+        "C",
+        "D",
+        "D",
+        "A"
+      ]
+    },
+    {
+      "id": 8,
+      "edges": [
+        "C",
+        "A",
+        "A",
+        "A"
+      ]
+    },
+    {
+      "id": 13,
+      "edges": [
+        "A",
+        "D",
+        "A",
+        "E"
+      ]
+    },
+    {
+      "id": 7,
+      "edges": [
+        "A",
+        "C",
+        "B",
+        "C"
+      ]
+    }
+  ]
+}
